@@ -11,3 +11,5 @@ Com isso os pacotes serão atualizados, em seguida pode usar o comando **yarn st
 ```[javascript]
   yarn start
 ```
+
+Por padrão, a aplicação será instanciada na porta 3000, porém caso esta esteja ocupada, ele usará a porta seguinte disponível.
